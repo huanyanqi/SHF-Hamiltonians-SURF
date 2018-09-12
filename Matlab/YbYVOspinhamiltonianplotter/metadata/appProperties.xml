@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<appProperties xmlns="http://schemas.mathworks.com/matlab/app/2012/appProperties" signature="7DD730F7BDA5AC795BD249C82F38F1108D87BD4A">
+
+  <entryPoint>spinhamiltonianplotter</entryPoint>
+
+  <name>YbYVOspinhamiltonianplotter</name>
+
+  <version>1.1</version>
+
+  <createdByMATLABRelease>(R2018a)</createdByMATLABRelease>
+
+  <GUID>01395dca-9ec9-48eb-ba87-10cbc3c4348b</GUID>
+
+  <description>Plots the transitions for Yb in YVO. Probably buggy. Use at your own risk.</description>
+
+  <author>
+    <name>Jon Kindem</name>
+    <contact></contact>
+    <organization></organization>
+  </author>
+
+  <supportedPlatforms/>
+
+  <requiredProducts/>
+
+  <numFiles>8</numFiles>
+
+  <created>2018-06-11T21:53:31Z</created>
+
+  <appEntries>
+    <appFile>/theory_spin_hamiltonians/yb173yvospinhamiltonian.m</appFile>
+    <appFile>/theory_spin_hamiltonians/spin_hamiltonian_class.m</appFile>
+    <appFile>/theory_spin_hamiltonians/yb171yvospinhamiltonian.m</appFile>
+    <appFile>/spinhamiltonianplotter.mlapp</appFile>
+    <appFile>/analysis_absorption_and_related/lorentzian_multiple.m</appFile>
+    <appFile>/miscellaneous/eigenshuffle/eigenshuffle.m</appFile>
+    <appFile>/theory_spin_hamiltonians/generatespinoperator.m</appFile>
+    <appFile>/theory_spin_hamiltonians/yb170yvospinhamiltonian.m</appFile>
+  </appEntries>
+
+</appProperties>

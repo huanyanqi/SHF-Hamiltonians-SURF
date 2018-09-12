@@ -1,0 +1,11 @@
+- step_magnetic_field_amplitude only takes into account Zeeman from the electronic spin?
+- What is v2 of the find transition strength amplitude?
+- How to account for the different position of the nucleus? just the A matrix? Where does that come from?
+- What is computing the gradient used for?
+- Should I reformat the code?
+
+
+
+170 - 1/2, 0
+171 - 1/2, 1/2
+173-  1/2, 5/2
